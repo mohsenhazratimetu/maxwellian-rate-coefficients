@@ -1,0 +1,6 @@
+% Synthetic constant cross section for the analytical check
+% Energy_eV	Cross_section_m2
+0.0	1.0e-20
+0.1	1.0e-20
+10000.0	1.0e-20
+1000000.0	1.0e-20
